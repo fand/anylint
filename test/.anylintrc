@@ -1,14 +1,14 @@
 {
   "*": {
-    "./test/rules/blank.js": 2,
-    "./test/rules/only-ascii.pl": 2,
-    "./test/rules/line-length.pl": 1,
+    "./rules/blank.js": 2,
+    "./rules/only-ascii.pl": 2,
+    "./rules/line-length.pl": 1,
   },
   ".js": {
-    "./test/rules/semi.js": 2,
-    "./test/rules/snake-var.js": 2,
+    "./rules/semi.js": 2,
+    "./rules/snake-var.js": 2,
   },
   ".pl": {
-    "./test/rules/camel-var.pl": 2,
+    "./rules/camel-var.pl": 2,
   }
 }

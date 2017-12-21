@@ -4,5 +4,7 @@ node_js:
 cache:
   directories:
   - node_modules
+before_script:
+  - sudo apt-get install libjson-perl
 script:
   - npm test
