@@ -1,7 +1,7 @@
 {
   "name": "anylint",
   "description": "Anylint: Linter for any languages",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "fand <fand.gmork@gmail.com> (https://gmork.in/)",
   "bin": "lib/cli.js",
   "bugs": "https://github.com/fand/anylint/issues",
