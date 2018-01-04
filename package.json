@@ -32,6 +32,6 @@
   "main": "index.js",
   "repository": "https://github.com/fand/anylint",
   "scripts": {
-    "test": "ava test/*.js"
+    "test": "ava test/*.js --verbose"
   }
 }
